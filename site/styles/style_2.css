@@ -26,12 +26,18 @@ li {
 	padding:2%;
 	}
 
+li:hover {
+	border: 2px solid red;
+}
 .foto {
 	font-name: sans-serif;
 	font-weight: bold;
 	color:yellow;
 }
 
+.foto:hover {
+	color:red;
+}
 .header {
 	line-height:200%;
 	color:black;
