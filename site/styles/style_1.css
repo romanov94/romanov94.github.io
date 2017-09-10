@@ -1,0 +1,15 @@
+#r2 {
+	font-weight:bold;
+	color:green;
+}
+.city {
+	color:yellow;
+	background-color:blue;
+	border:1px solid black;
+	width:450px;
+	padding:20px;
+	padding-left:190px;
+	margin-left: 200px;
+	box-sizing:border-box;
+
+}

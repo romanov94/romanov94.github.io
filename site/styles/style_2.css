@@ -1,0 +1,101 @@
+body{
+	background-image:url(http://svoya.ucoz.ru/_ph/4/599664493.jpg)
+}
+a {
+	color:black;
+}
+p {
+	font-family:cursive;
+	padding-left: 25%;
+}
+ol {
+	padding-top:2%;
+	height: 70%;
+	margin-top:1%;
+	border:1px solid black;
+	background:rgba(223, 176, 244, 0.6);
+	color:black;
+	}
+
+li {
+	font-name: sans;
+	font-weight: bold;
+	font-style: italic;
+	border:1px solid white;
+	width:70%;
+	padding:2%;
+	}
+
+.foto {
+	font-name: sans-serif;
+	font-weight: bold;
+	color:yellow;
+}
+
+.header {
+	line-height:200%;
+	color:black;
+	background:rgba(223, 176, 244, 0.6);
+}
+
+.row:after {
+	display:block;
+	clear:both;
+	content:"";
+}
+
+.logo {
+	
+	width:30%;
+	float:left;
+}
+
+.top-menu {
+	font-name: sans-serif;
+	font-weight: bold;
+	word-spacing:20px;
+	padding-top:2%;
+	color:RED;
+	text-align:center;
+	width:70%;
+	float:left;
+}
+
+.col_1 {
+	margin-top:1%;
+	width:23%;
+	float:left;
+}
+
+.col_2 {
+	text-align:left;
+	width:50%;
+	float:left;
+}
+
+
+.main {
+	font-family:monospace ;
+	height: 67%;
+	margin-top:1%;
+	border: 2px groove red;
+	padding:1%;
+	background-color:white;
+	
+}	
+
+.footer {
+	padding-top: 2%;
+	text-align:right;
+	color:Yellow;
+	background-color:#c11d93;
+	
+}
+
+#one {
+	margin:25px;
+}
+
+#two {
+	text-align:center;
+}
